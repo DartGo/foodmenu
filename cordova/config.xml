@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="1.0.0">
-  <name>bookstore</name>
+<widget id="my.first.app.menu" version="1.0.0">
+  <name>foodmenu</name>
   <description>
     A sample Tabris.js application.
   </description>
