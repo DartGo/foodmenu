@@ -2,7 +2,7 @@
   "title": "Foodmenu",
   "category": "Small Apps",
   "description": "Food Menu",
-  "main": "src/menu.js",
+  "main": "./src/menu.js",
   "dependencies": {
     "tabris": "^1.2.0"
   }
