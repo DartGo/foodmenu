@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Three Delicacy",
+    "author": "oil chicken + roast duck + BBQ pork",
+	"chinese": "發財三寶飯",
+    "image": "images/three-delicacy.jpg",
+    "cat": 1
+  }, 
+  {
+    "title": "Stewed stuff ",
+    "author": "tofu, vegetables, wing…",
+	"chinese": "金牌滷味飯",
+    "image": "images/stewed_stuff.jpg",
+    "cat": 1
+  },
+  {
+    "title": "Crispy roast duck",
+    "author": "duck",
+	"chinese": "脆皮燒鴨飯",
+    "image": "images/crispy_roast_duck.jpg",
+    "cat": 1
+  },
+  {
+    "title": "Oil chicken",
+    "author": "chicken",
+	"chinese": "脆皮燒鴨飯",
+    "image": "images/oil_chicken.jpg",
+    "cat": 1
+  },
+  {
+    "title": "Honey-BBQ pork",
+    "author": "chicken",
+	"chinese": "脆皮燒鴨飯",
+    "image": "images/honey_BBQ_pork.jpg",
+    "cat": 2
+  },
+  {
+    "title": "Honey-BBQ rib",
+    "author": "chicken",
+	"chinese": "脆皮燒鴨飯",
+    "image": "images/honey_BBQ_rib.jpg",
+    "cat": 3
+  },
+  {
+    "title": "Roast pork",
+    "author": "chicken",
+	"chinese": "脆皮燒鴨飯",
+    "image": "images/roast_pork.jpg",
+    "cat": 2
+  }
+]

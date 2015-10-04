@@ -1,0 +1,10 @@
+{
+  "title": "Menu",
+  "category": "Small Apps",
+  "description": "Menu for AJ",
+  "main": "./src/menu.js",
+  "dependencies": {
+    "tabris": "^1.2.0"
+  }
+
+}

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="CAE.joseph.app" version="1.0.0">
+  <name>FoodMenu</name>
+  <description>
+    Food Menu
+  </description>
+  <author email="javagear@gmail.com" href="https://tabrisjs.com">
+    CAE Joseph
+  </author>
+</widget>
