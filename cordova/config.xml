@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="CAE.joseph.app" version="1.0.0">
-  <name>FoodMenu</name>
+<widget id="CAE.app.foodmenu" version="1.0.0">
+  <name>foodmenu</name>
   <description>
     Food Menu
   </description>
