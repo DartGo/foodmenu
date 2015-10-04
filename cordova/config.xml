@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="CAE.app.foodmenu" version="1.0.0">
-  <name>foodmenu</name>
+<widget id="my.first.app" version="1.0.0">
+  <name>bookstore</name>
   <description>
-    Food Menu
+    A sample Tabris.js application.
   </description>
-  <author email="javagear@gmail.com" href="https://tabrisjs.com">
-    CAE Joseph
+  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
+    Tabris.js Team
   </author>
 </widget>
