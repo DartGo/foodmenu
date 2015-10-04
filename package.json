@@ -1,7 +1,7 @@
 {
   "title": "Foodmenu",
   "category": "Small Apps",
-  "description": "Menu for AJ",
+  "description": "Food Menu",
   "main": "src/menu.js",
   "dependencies": {
     "tabris": "^1.2.0"
